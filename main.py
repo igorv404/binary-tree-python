@@ -1,5 +1,5 @@
-from Book import Book
-from Node import Node
+from book_class import Book
+from node_class import Node
 
 harry = Book("harry potter", "joanne rowling", 2002, "ababalamaga", 299)
 tom = Book("tom&cat", "bob marley", 1965, "disney", 99)

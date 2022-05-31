@@ -1,4 +1,4 @@
-from Book import Book
+from book_class import Book
 
 
 class Node:
